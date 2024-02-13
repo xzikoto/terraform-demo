@@ -71,4 +71,4 @@ jobs:
         path: .
     
     - name: Terraform Apply
-      run: terraform apply -auto-aprove
+      run: terraform apply -auto-approve
